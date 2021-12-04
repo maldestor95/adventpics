@@ -1,4 +1,8 @@
 {"picturesFolder":[
+<<<<<<< HEAD
     {"name": "France 2021", "path":"2021/fr"},
+=======
+    {"name": "France 2021", "path":"2021/fr"}
+>>>>>>> 04889e1d5e1434e485852bb65494c2a47996fa77
     {"name": "UK 2021", "path":"2021/uk"}
 ]}
